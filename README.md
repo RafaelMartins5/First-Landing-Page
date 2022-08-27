@@ -1,5 +1,4 @@
-# First-Landing-Page
-Primeira Landing page
+# Primeira Landing page
 ![First Landing](https://user-images.githubusercontent.com/86852900/187030620-75af2289-63f0-49cc-8e8d-ecb54347f49c.png)
 
 
