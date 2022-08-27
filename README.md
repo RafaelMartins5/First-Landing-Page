@@ -4,5 +4,7 @@
 
 Usei o HTML5 e CSS3 Puros
 
-Link do Projeto: https://rafaelmartins5.github.io/First-Landing-Page/
+Link do Projeto: 
+
+<a href="https://rafaelmartins5.github.io/First-Landing-Page/" target="_blank">Link da minha Landing Page!</a>
 
